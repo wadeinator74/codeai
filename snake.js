@@ -95,4 +95,6 @@
 				food.x = Math.floor(Math.random() * (canvas.width / 10));
 				food.y = Math.floor(Math.random() * (canvas.height / 10));
 			}
+		}
+	}
 }
